@@ -86,6 +86,9 @@
     <ClInclude Include="headers\test_math\optimization_test_functions.h">
       <Filter>Header Files\test_math</Filter>
     </ClInclude>
+    <ClInclude Include="headers\test_inverse_kinematics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\test_all_tests.cpp">

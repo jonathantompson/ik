@@ -98,6 +98,7 @@
     <ClInclude Include="headers\test_data_str\test_pair.h" />
     <ClInclude Include="headers\test_data_str\test_vector.h" />
     <ClInclude Include="headers\test_data_str\test_vector_managed.h" />
+    <ClInclude Include="headers\test_inverse_kinematics.h" />
     <ClInclude Include="headers\test_math.h" />
     <ClInclude Include="headers\test_math\optimization_test_functions.h" />
     <ClInclude Include="headers\test_math\test_math_base.h" />

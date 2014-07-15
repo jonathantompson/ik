@@ -5,14 +5,15 @@
 //
 //  Test everything
 
-#include "test_callback.h"
-#include "test_callback_queue.h"
-#include "test_data_str.h"
-#include "test_math.h"
-#include "test_thread.h"
-#include "test_thread_pool.h"
-#include "test_optimization.h"
-#include "test_math/test_profile_simd_math.h"  // Profile last
+//#include "test_callback.h"
+//#include "test_callback_queue.h"
+//#include "test_data_str.h"
+//#include "test_math.h"
+//#include "test_thread.h"
+//#include "test_thread_pool.h"
+//#include "test_optimization.h"
+#include "test_inverse_kinematics.h"
+//#include "test_math/test_profile_simd_math.h"  // Profile last
 
 #include "ik/debug_util/debug_util.h"  // Must come last in .cpp with main
 
